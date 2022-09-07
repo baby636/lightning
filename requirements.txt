@@ -10,7 +10,7 @@ ephemeral-port-reserve==1.1.1
 flake8==3.7.8
 flaky==3.6.1
 m2r==0.2.1
-mako==1.0.14
+mako==1.2.2
 mrkd==0.1.6
 psycopg2-binary==2.8.4
 pytest-benchmark==3.2.2
