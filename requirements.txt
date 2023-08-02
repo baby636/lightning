@@ -1,5 +1,5 @@
 Flask==1.1.1
-Sphinx==1.8.4
+Sphinx==3.3.0
 base58==1.0.2
 bitstring==3.1.6
 cheroot==8.2.1
